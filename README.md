@@ -1,5 +1,5 @@
 
-#### - instruções:
+#### [ instruções ]
 
 
 1.  instalar a versão de jdk 17 (caso ainda não tenha instalado; ou tenha outra versão instalada -- jdk 11, por exemplo)
@@ -30,13 +30,17 @@ curl --request GET \
   --url http://localhost:8080/dict/29640751820 \
 ```
 
+![image](https://github.com/alexandremot/hands-on-project/assets/42823175/db46f725-c0af-4878-b008-3b5eb752c42b)
+
+
+
 10.  deverá ser obtido o seguinte resultado:
     
 ![Captura de tela de 2024-03-13 22-07-17](https://github.com/alexandremot/hands-on-project/assets/42823175/62140599-a66c-4bac-a8a5-127763d3bf6b)
 
 ----
 
-#### - plus:
+#### [ plus ]
 
 - caso deseje "brincar" com a tabela no dynamo, pode ser realizado acesso no painel indivudial
 - para isto, basta abrir o arquivo com as credenciais de acesso (ex.: seuNome_credentials.csv), encaminhado via email
