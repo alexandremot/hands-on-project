@@ -7,7 +7,7 @@
 3.  abrir o projeto no Intellij, a partir do POM
 4.  em paralelo, abrir o arquivo com as respectivas chaves de acesso aws encaminhadas no email (ex: seuNome_accessKeys.csv)
 5.  no projeto, localizar a classe DynamoDBConfig.java (src/main/java/com/example/handson/config)
-6.  preencher os dados de acesso (accessKey e secretKey) conforme indicado abaixo:
+6.  preencher os dados de acesso (accessKey e secretKey, respectivamente) conforme indicado abaixo:
 
 ```java
         ).withCredentials(
